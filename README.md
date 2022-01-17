@@ -1,5 +1,4 @@
 # Weekly project 
-[Are you born to be a NBA player?](https://github.com/dinhtthuha/coderschool/blob/main/Are_you_born_to_be_a_basketball_player_.ipynb)
 
 The National Basketball Association (NBA) is a professional basketball league in North America since 1946. The league is composed of 30 teams and is one of the four major professional sports leagues in the United States.
 
@@ -11,5 +10,5 @@ Well, should we just do some statistical calculations to find out the central te
 
 And then ...
 
-🖐 Seeing the birth_date column made me think of a kinda outrageous idea, which is ... classifying NBA players based on their astrological signs and elements ⭐ and ... comparing these groups to find out if there is any outstanding physical attribute and performance among them 🏀.
+🖐 Seeing the birth_date column made me think of a kinda outrageous idea, which is ... classifying NBA players based on their astrological signs and elements ⭐ and ... comparing these groups to find out if there is any outstanding physical attribute and performance among them 🏀. Check out my analysis results here [Are you born to be a NBA player?](https://github.com/dinhtthuha/coderschool/blob/main/Are_you_born_to_be_a_basketball_player_.ipynb)
 
