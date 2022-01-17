@@ -1,4 +1,5 @@
-[# Weekly project] (https://github.com/dinhtthuha/coderschool/blob/main/Are_you_born_to_be_a_basketball_player_.ipynb)
+# Weekly project 
+[Are you born to be a NBA player?](https://github.com/dinhtthuha/coderschool/blob/main/Are_you_born_to_be_a_basketball_player_.ipynb)
 
 The National Basketball Association (NBA) is a professional basketball league in North America since 1946. The league is composed of 30 teams and is one of the four major professional sports leagues in the United States.
 
