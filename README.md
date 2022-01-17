@@ -11,8 +11,5 @@ Well, should we just do some statistical calculations to find out the central te
 
 And then ...
 
-🖐 Seeing the birth_date column made me think of a kinda outrageous idea, which is
-
-classifying NBA players based on their astrological signs and elements ⭐ and
-comparing these groups to find out if there is any outstanding physical attribute and performance among them 🏀.
+🖐 Seeing the birth_date column made me think of a kinda outrageous idea, which is ... classifying NBA players based on their astrological signs and elements ⭐ and ... comparing these groups to find out if there is any outstanding physical attribute and performance among them 🏀.
 
